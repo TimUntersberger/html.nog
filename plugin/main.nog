@@ -1,0 +1,5 @@
+import "./mod" as M;
+
+fn test() {
+    print(M::constant);
+}
