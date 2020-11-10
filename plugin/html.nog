@@ -1,0 +1,5 @@
+import "html" as html;
+
+fn hello() {
+    print(html::message);
+}
