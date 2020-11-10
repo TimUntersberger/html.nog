@@ -1,4 +1,4 @@
-import "html" as html;
+import "html/index" as html;
 
 fn hello() {
     print(html::message);
